@@ -10,7 +10,7 @@
 
 [존 그루버](https://ko.wikipedia.org/w/index.php?title=%EC%A1%B4_%EA%B7%B8%EB%A3%A8%EB%B2%84&action=edit&redlink=1 "존 그루버 (없는 문서)")는 2004년에 문법 면에서 [에런 스워츠](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9F%B0_%EC%8A%A4%EC%9B%8C%EC%B8%A0 "에런 스워츠")와 중대한 협업을 통해 마크다운 언어를 만들었으며[[3]](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#cite_note-markdown_swartz-3)[[5]](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#cite_note-gruber-2004-release-5), 사람들이 읽기 쉽고 쓰기 쉬운 플레인 텍스트 포맷을 사용하여 쓸 수 있으면서 구조적으로 유효한 [XHTML](https://ko.wikipedia.org/wiki/XHTML "XHTML")(또는 HTML)로 선택적 변환이 가능하게 하는 것이 목표이다.[[6]](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4#cite_note-md-6)
 
-## [](https://gist.github.com/ihoneymon/652be052a0727ad59601#12-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%9E%A5-%EB%8B%A8%EC%A0%90)1.2. 마크다운의 장-단점
+## [](https://gist.github.com/ihoneymon/652be052a0727ad59601#12-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%98-%EC%9E%A5-%EB%8B%A8%EC%A0%90)1.2. 마크다운 장점
 
 ### 1.2.1. 장점
 
