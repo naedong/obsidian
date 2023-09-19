@@ -1,4 +1,4 @@
-# [공통] 마크다운 markdown 작성법
+#  마크다운 markdown 작성법
 
 > "Markdown Guide ([https://www.markdownguide.org/](https://www.markdownguide.org/))" 
 
