@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #  마크다운 markdown 작성법
+=======
+# 마크다운 markdown 작성법
+>>>>>>> 6a600496d0493e49f59a79097b6194299d849556
 
 > "Markdown Guide ([https://www.markdownguide.org/](https://www.markdownguide.org/))" 
 
@@ -347,3 +351,5 @@ H<sup>2</sup>O
 ```
 
 * X<sup>2</sup>P```
+
+* ``` ihoneymon 님의 GIST를 보고 저도 작성을 하게 되었습니다. 예쁘게 하기 위해 기존 형태는 참조하였습니다.
